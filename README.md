@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 🚀 About me
 <img align="right" alt="GIF" src="https://github.com/lauragift21/lauragift21/raw/master/code.gif" width="500" height="320" />
-👩‍💻 I am Liana Rechkina, a Junior QA Engineer with strong attention to detail. I like new challenges, that makes me
+👩‍💻 I am Liana Rechkina, a Middle+ QA Engineer with strong attention to detail. I like new challenges, that makes me
 want to learn more about this domain and improve my skills everyday.
 
 ## 📫 Connect with me
