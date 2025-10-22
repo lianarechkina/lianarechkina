@@ -1,8 +1,7 @@
 ## Hi there 👋
 ## 🚀 About me
 <img align="right" alt="GIF" src="https://github.com/lauragift21/lauragift21/raw/master/code.gif" width="500" height="320" />
-👩‍💻 I am Liana Rechkina, a Middle+ QA Engineer with strong attention to detail. I like new challenges, that makes me
-want to learn more about this domain and improve my skills everyday.
+👩‍💻 I am a Manual QA Engineer with over 2 years of experience. My key strengths are proactivity and a keen attention to detail, and I am always eager to take on new challenges that help me grow professionally.
 
 ## 📫 Connect with me
 <a href="https://www.linkedin.com/in/liana-rechkina-51881224b" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="gautamkrishnar" height="40" width="40" /></a> <a href="https://t.me/liana_rechkina" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="40" width="40" /></a> <a href="https://drive.google.com/file/d/1bIyUshY_E25yrA5-xXOGvWjhbuWsEmos/view?usp=sharing" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1604/1604498.png" height="40" width="40" /></a>
